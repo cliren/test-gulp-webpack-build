@@ -1,0 +1,19 @@
+{
+  "name": "test-gulp-webpack-build",
+  "version": "1.0.0",
+  "description": "test-gulp-webpack-build",
+  "main": "main.js",
+  "license": "MIT",
+  "devDependencies": {
+    "css-loader": "^0.9.1",
+    "gulp": "^3.8.10",
+    "gulp-util": "^3.0.1",
+    "gulp-webpack-build": "^0.5.1",
+    "less": "^2.4.0",
+    "less-loader": "^2.1.0",
+    "require-dir": "^0.1.0",
+    "run-sequence": "^0.3.6",
+    "style-loader": "^0.8.3",
+    "webpack": "^1.4.15"
+  }
+}
